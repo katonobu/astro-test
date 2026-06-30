@@ -1,0 +1,5 @@
+{
+  "name": "astro markdown viewer",
+  "image": "mcr.microsoft.com/devcontainers/universal:linux",
+	"postCreateCommand": "bash .devcontainer/post_create.sh"
+}
